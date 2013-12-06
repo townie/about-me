@@ -1,0 +1,200 @@
+@import url(css/bootstrap.css);
+
+
+body{
+
+	text-align: center;
+
+}
+
+p{
+	text-align: center;
+	font-size: 30px;
+	margin: 10px 10px 10px 10px;
+	padding: 10px 10px 10px 10px;
+	line-height: 120%;
+}
+
+.container-fluid{
+	margin:5px 5px ;
+	padding:0px;
+}
+
+/*#section1 h1{
+	margin: 50px 0;
+	font-family: 'Codystar', cursive;
+	font-size: 70px;
+	padding: 50px 10px 20px 10px;
+
+}*/
+
+a{
+	color: white;
+
+}
+
+#section1{
+	background: black;
+	color: white;	
+	padding: 20px;
+
+	/*height:1000px;*/
+}
+/*
+@media  (max-width: 968px) { 
+
+#section1{
+	background: black;
+	color: white;	
+	padding: 20px;
+
+	height:1000px;
+}
+}
+
+@media  (max-width: 400px) { 
+
+#section1{
+	background: black;
+	color: white;	
+	padding: 20px;
+
+	height:700px;
+}
+}*/
+
+/*#section2 h1{
+	margin: 50px 20px 50px 20px;
+	font: 'Codystar', cursive;
+	font-size: 70px;
+	padding: 50px 10px 50px 10px;
+
+
+}*/
+
+/*		.contain{
+		
+		text-align:center;
+		}*/
+/*		.top3{
+position:relative;
+display: inline-block;
+float:left;
+padding:10px;
+		}
+	
+		}
+		.top2{
+position:relative;
+display: inline-block;
+pading:10px;
+
+		}*/
+/*		.top1{
+		position:relative;
+		display: inline-block;
+		max-width:960px;
+		float:left;
+		margin:10px 3px 0px 3px;
+		padding:10px;
+
+
+				}*/
+
+
+ iframe {
+				margin: 1px 0px 0px 0px;
+			border: 7px solid black;
+			border-radius: 20px;
+}
+/*div.section2 img {
+			margin: 10px 0px 0px 0px;
+			border: 7px solid black;
+			border-radius: 20px;
+		}
+*/
+
+
+/*#section2{
+	background: white;
+	color:black;
+	min-height: 900px;
+}
+
+@media(max-width: 1798px){
+	#section2 #section3{
+		height: 1050px;
+		display: block;
+	}
+}
+
+@media(max-width: 916px){
+	#section2 #section3{
+		height: 1900px;
+		display: block;
+	}
+}
+*/
+
+
+#section3{
+		background: black;
+		color:white;
+	
+}
+
+/*@media(max-width: 1798px){
+	#section3{
+		height: 750px;
+		display: block;
+	}
+}
+@media(max-width: 916px){
+	#section3{
+		height: 700px;
+		display: block;
+	}
+}
+*/
+
+
+	div.section1 h1{	padding:20px;}
+	#section1 img{
+				margin: 10px 0px 0px 0px;
+			border: 7px solid white;
+			border-radius: 20px;
+	}
+		.section4{
+
+			background: white;
+		min-height: 1050px;
+			color: black;
+		}
+
+		.contact{
+			background:black;
+			color:white;
+			min-height: 1050px;
+		}
+
+
+#section5 a{
+	color: black;
+
+}
+
+#section4{
+	margin: 20px 0;
+
+}
+
+#section3 .tabbable{
+	margin:20px 0 20px 0;
+
+}
+
+#section3 img{
+					margin: 10px 0px 0px 0px;
+			border: 7px solid white;
+			border-radius: 20px;
+}
